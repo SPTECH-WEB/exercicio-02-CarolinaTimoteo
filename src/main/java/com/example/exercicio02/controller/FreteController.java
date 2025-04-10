@@ -1,6 +1,6 @@
-package com.example.strategy.controller;
+package com.example.exercicio02.controller;
 
-import com.example.strategy.service.FreteService;
+import com.example.exercicio02.service.FreteService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;

@@ -1,4 +1,4 @@
-package com.example.strategy.service;
+package com.example.exercicio02.service;
 
 import org.springframework.stereotype.Component;
 
